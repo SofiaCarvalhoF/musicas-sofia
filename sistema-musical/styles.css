@@ -461,14 +461,14 @@ Tudo aqui dentro só vale em telas de até 768px (celular e tablet em pé). Fica
 }
 
 /* =============================================
-2 SISTEMA MUSICAL: Folha de Estilos Principal
-3 =============================================
-4 Um único arquivo para TODAS as telas. Ele cresce a cada aula:
-5 Aula 1: base, formulário, botões, login e menu
-6 Aula 2: títulos, barra de título, cores dos botões, tabelas e filtros
-7 Aula 3: formulário em grade, campo de foto e botão de músicas
-8 Aula 4: url e textarea, campo "full", utilitários e celular
-9 ============================================= */
+ SISTEMA MUSICAL: Folha de Estilos Principal
+ =============================================
+ Um único arquivo para TODAS as telas. Ele cresce a cada aula:
+ Aula 1: base, formulário, botões, login e menu
+ Aula 2: títulos, barra de título, cores dos botões, tabelas e filtros
+ Aula 3: formulário em grade, campo de foto e botão de músicas
+ Aula 4: url e textarea, campo "full", utilitários e celular
+ ============================================= */
 
 
 /* -----------------------------------------------
